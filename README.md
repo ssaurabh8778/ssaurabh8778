@@ -44,6 +44,6 @@ Contact me to see how I can assist you in your ongoing as well as future project
 
 ### Contact Me :
 
-- +91 8885795342
-- contact@saurabhsharma.biz
-- www.saurabhsharma.biz
+- :iphone: +91 8885795342
+- :iphone: contact@saurabhsharma.biz
+- :globe_with_meridians: www.saurabhsharma.biz
