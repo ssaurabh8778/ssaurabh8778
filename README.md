@@ -18,7 +18,7 @@ Below are the key frameworks/libraries I have worked with (But not limited to):-
 - HTML5 / CSS / SCSS
 - Javascript / ES6 / ES7 / ES8 / TypeScript
 
-Contact me any kind of collaboation.
+Feel free to contact me for any kind of collaboration.
 
 ### Languages and Tools :
 
