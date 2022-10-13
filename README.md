@@ -6,7 +6,7 @@
 
 HI,
 
-I am Saurabh. I have 4+ years of experience in Web Development & Mobile App Development where I have worked as Senior Software Developer on many amazing projects. My core expertise is around React & React-Native. In addition to that, I have also worked with Angular & Vue for some of the projects.
+I am Saurabh. I have 4+ years of experience in Web Development & Mobile App Development where I have worked as Senior Software Developer on many amazing projects over the years. My core expertise is around React & React-Native. In addition to that, I have also worked with Angular & Vue for some of the projects.
 
 Below are the key frameworks/libraries I have worked with (But not limited to):-
 
