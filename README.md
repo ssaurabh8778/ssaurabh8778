@@ -6,7 +6,7 @@
 
 HI,
 
-I am Saurabh. I have 4+ years of experience in Web Development & Mobile App Development where I have worked as Senior Software Developer as well as Team Lead. My core expertise is around React & React-Native. In addition to that, I have also worked with Angular & Vue for some of the projects.
+I am Saurabh. I have 4+ years of experience in Web Development & Mobile App Development where I have worked as Senior Software Developer on many amazing projects. My core expertise is around React & React-Native. In addition to that, I have also worked with Angular & Vue for some of the projects.
 
 Below are the key frameworks/libraries I have worked with (But not limited to):-
 
@@ -18,9 +18,7 @@ Below are the key frameworks/libraries I have worked with (But not limited to):-
 - HTML5 / CSS / SCSS
 - Javascript / ES6 / ES7 / ES8 / TypeScript
 
-I am looking forward to building long term relationships with my clients. So my primary focus right now is to collaborate on long term projects. But feel free to reach out to me even if you have some small tasks.. We never know; that small task may lead to long term collaboration on future projects.
-
-Contact me to see how I can assist you in your ongoing as well as future projects
+Contact me any kind of collaboation.
 
 ### Languages and Tools :
 
@@ -45,5 +43,5 @@ Contact me to see how I can assist you in your ongoing as well as future project
 ### Contact Me :
 
 - :iphone: +91 8885795342
-- :computer: contact@saurabhsharma.biz
-- :globe_with_meridians: www.saurabhsharma.biz
+- :computer: ssaurabh8778@gmail.com
+- :globe_with_meridians: Bengaluru, Karnataka, India
